@@ -1,1 +1,1 @@
-# Basic-Banking-System
+It is a simple website demonstrating a banking system with features such as viewing all customers, selecting and viewing a specific customer, transferring money, and selecting a customer for transfers. The front end utilizes HTML, CSS, and JavaScript, while the database is managed using MySQL. The backend is powered by PHP
